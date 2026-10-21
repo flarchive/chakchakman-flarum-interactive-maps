@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of chakchakman/flarum-interactive-maps.** Not for installation: use [Packagist](https://packagist.org/packages/chakchakman/flarum-interactive-maps) or the [upstream repository](https://github.com/Chakchakman/flarum-interactive-maps).
 
-**0** versions archived · Latest: [`v0.1.0-beta.1`](https://github.com/flarchive/chakchakman-flarum-interactive-maps/tree/archive/v0.1.0-beta.1) · License: `MIT` · Flarum: `^2.0`
+**1** versions archived · Latest: [`v0.1.0-beta.1`](https://github.com/flarchive/chakchakman-flarum-interactive-maps/tree/archive/v0.1.0-beta.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.1` | 2026-10-19 | `^2.0` | [Browse](https://github.com/flarchive/chakchakman-flarum-interactive-maps/tree/archive/v0.1.0-beta.1) |
 
 Catalog entry: [packages/chakchakman-flarum-interactive-maps.json](https://github.com/flarchive/archive-index/blob/main/packages/chakchakman-flarum-interactive-maps.json)
 
